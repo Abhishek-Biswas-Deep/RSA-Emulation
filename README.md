@@ -17,7 +17,7 @@ This Java program emulates the RSA (Rivest–Shamir–Adleman) cryptosystem, a w
 1. Compile the Java file.
 2. Run the program.
 3. Follow the prompts:
-- The program will display the public and private keys, encrypt your message, and then decrypt it
+- The program will display the public and private keys, encrypt the message, and then decrypt it
 
 #### Implementation Details
 The program implements the following RSA operations:
